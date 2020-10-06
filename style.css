@@ -1,0 +1,25 @@
+.panel{
+    margin-left: 25px;
+    margin-top: 50px;
+    border: 1px solid;
+    padding: 20px;
+    border-radius: 20px;
+    background:#e8af99;
+  }
+  .panel-heading{
+    font-size: 30px;
+    font-weight: 600;
+    /* padding: 10px; */
+  }
+  .panel-body{
+    padding:20px;
+  }
+  .submit-btn{
+    text-align:center;
+    padding-top:10px;
+  }
+  .panel-footer{
+    margin-left: -10px;
+    margin-bottom: -15px;
+    font-weight: 300;
+  }
